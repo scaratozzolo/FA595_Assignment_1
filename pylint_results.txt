@@ -1,0 +1,6 @@
+************* Module main
+main.py:13:4: C0103: Variable name "x" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.09/10 (previous run: 9.09/10, +0.00)
+
